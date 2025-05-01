@@ -5,11 +5,11 @@ const horarioDeClase = {
         {hora: "8:00 AM", nombre: "Yoga", cupos: 20},
         {hora: "9:00 AM", nombre: "Spinning", cupos: 30},
         {hora: "10:00 AM", nombre: "Spinning", cupos: 30},
-        {hora: "11:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "12:00 PM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "2:00 PM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "3:00 PM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "4:00 PM", nombre: "Entrenamiento funcional", cupos: 30},
+        {hora: "11:00 AM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "12:00 PM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "2:00 PM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "3:00 PM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "4:00 PM", nombre: "Entrenamiento", cupos: 30},
         {hora: "5:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "6:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "7:00 PM", nombre: "Yoga", cupos: 20},
@@ -20,20 +20,20 @@ const horarioDeClase = {
         {hora: "8:00 AM", nombre: "Yoga", cupos: 20},
         {hora: "9:00 AM", nombre: "Spinning", cupos: 30},
         {hora: "10:00 AM", nombre: "Spinning", cupos: 30},
-        {hora: "11:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "12:00 PM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "2:00 PM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "3:00 PM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "4:00 PM", nombre: "Entrenamiento funcional", cupos: 30},
+        {hora: "11:00 AM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "12:00 PM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "2:00 PM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "3:00 PM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "4:00 PM", nombre: "Entrenamiento", cupos: 30},
         {hora: "5:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "6:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "7:00 PM", nombre: "Yoga", cupos: 20},
         {hora: "8:00 PM", nombre: "Yoga", cupos: 20}
     ],
     Miercoles: [
-        {hora: "7:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "8:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "9:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
+        {hora: "7:00 AM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "8:00 AM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "9:00 AM", nombre: "Entrenamiento", cupos: 30},
         {hora: "10:00 AM", nombre: "Yoga", cupos: 20},
         {hora: "11:00 AM", nombre: "Yoga", cupos: 20},
         {hora: "12:00 PM", nombre: "Yoga", cupos: 20},
@@ -42,13 +42,13 @@ const horarioDeClase = {
         {hora: "4:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "5:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "6:00 PM", nombre: "Spinning", cupos: 30},
-        {hora: "7:00 PM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "8:00 PM", nombre: "Entrenamiento funcional", cupos: 30}
+        {hora: "7:00 PM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "8:00 PM", nombre: "Entrenamiento", cupos: 30}
     ],
     Jueves: [
-        {hora: "7:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "8:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "9:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
+        {hora: "7:00 AM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "8:00 AM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "9:00 AM", nombre: "Entrenamiento", cupos: 30},
         {hora: "10:00 AM", nombre: "Yoga", cupos: 20},
         {hora: "11:00 AM", nombre: "Yoga", cupos: 20},
         {hora: "12:00 PM", nombre: "Yoga", cupos: 20},
@@ -57,13 +57,13 @@ const horarioDeClase = {
         {hora: "4:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "5:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "6:00 PM", nombre: "Spinning", cupos: 30},
-        {hora: "7:00 PM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "8:00 PM", nombre: "Entrenamiento funcional", cupos: 30}
+        {hora: "7:00 PM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "8:00 PM", nombre: "Entrenamiento", cupos: 30}
     ],
     Viernes: [
-        {hora: "7:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "8:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "9:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
+        {hora: "7:00 AM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "8:00 AM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "9:00 AM", nombre: "Entrenamiento", cupos: 30},
         {hora: "10:00 AM", nombre: "Yoga", cupos: 20},
         {hora: "11:00 AM", nombre: "Yoga", cupos: 20},
         {hora: "12:00 PM", nombre: "Yoga", cupos: 20},
@@ -72,13 +72,13 @@ const horarioDeClase = {
         {hora: "4:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "5:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "6:00 PM", nombre: "Spinning", cupos: 30},
-        {hora: "7:00 PM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "8:00 PM", nombre: "Entrenamiento funcional", cupos: 30}
+        {hora: "7:00 PM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "8:00 PM", nombre: "Entrenamiento", cupos: 30}
     ],
     Sabado: [
-        {hora: "7:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "8:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "9:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
+        {hora: "7:00 AM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "8:00 AM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "9:00 AM", nombre: "Entrenamiento", cupos: 30},
         {hora: "10:00 AM", nombre: "Yoga", cupos: 20},
         {hora: "11:00 AM", nombre: "Yoga", cupos: 20},
         {hora: "12:00 PM", nombre: "Yoga", cupos: 20},
@@ -87,13 +87,13 @@ const horarioDeClase = {
         {hora: "4:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "5:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "6:00 PM", nombre: "Spinning", cupos: 30},
-        {hora: "7:00 PM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "8:00 PM", nombre: "Entrenamiento funcional", cupos: 30}
+        {hora: "7:00 PM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "8:00 PM", nombre: "Entrenamiento", cupos: 30}
     ],
     Domingo: [
-        {hora: "7:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "8:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "9:00 AM", nombre: "Entrenamiento funcional", cupos: 30},
+        {hora: "7:00 AM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "8:00 AM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "9:00 AM", nombre: "Entrenamiento", cupos: 30},
         {hora: "10:00 AM", nombre: "Yoga", cupos: 20},
         {hora: "11:00 AM", nombre: "Yoga", cupos: 20},
         {hora: "12:00 PM", nombre: "Yoga", cupos: 20},
@@ -102,8 +102,8 @@ const horarioDeClase = {
         {hora: "4:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "5:00 PM", nombre: "Spinning", cupos: 30},
         {hora: "6:00 PM", nombre: "Spinning", cupos: 30},
-        {hora: "7:00 PM", nombre: "Entrenamiento funcional", cupos: 30},
-        {hora: "8:00 PM", nombre: "Entrenamiento funcional", cupos: 30}
+        {hora: "7:00 PM", nombre: "Entrenamiento", cupos: 30},
+        {hora: "8:00 PM", nombre: "Entrenamiento", cupos: 30}
     ]
 };
 //se crea la ejecusion luego de que carge el html
